@@ -1,3 +1,3 @@
 # Tac-Toe-game-for-2-players
 
-# A gaeme has been developed for two players.
+ A game has been developed for two players.
